@@ -133,5 +133,5 @@ intended for analytical and demonstrative purposes.
 ## Authors
 
 - **Database / Data Engineering:** Magnus Irvine  
-- **Data Analysis & Reporting:** Partner collaboration
+- **Data Analysis & Reporting:** Ines Berreta
 
